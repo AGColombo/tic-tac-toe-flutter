@@ -3,9 +3,9 @@
 Jogo da velha (Tic Tac Toe) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade. Desafios resolvidos por Adriano Gianini Colombo.
 
 <p align="center">
-    <img src="https://miro.medium.com/max/334/1*mEhyVlhIPQ3ccv9piPEdrw.png" width="250"/>
-    <img src="https://miro.medium.com/max/334/1*mqMhhPAmNoY_ch1AAvJgeg.png" width="250"/>
-    <img src="https://miro.medium.com/max/334/1*IXXSxfLfRDKCXw_QKw5yvQ.png" width="250"/>
+    <img src="https://github.com/AGColombo/tic-tac-toe-flutter/blob/master/Screenshot_1603249897.png" width="250"/>
+    <img src="https://github.com/AGColombo/tic-tac-toe-flutter/blob/master/Screenshot_1603250007.png" width="250"/>
+    <img src="https://github.com/AGColombo/tic-tac-toe-flutter/blob/master/Screenshot_1603250033.png" width="250"/>
 </p>
 
 ## Desafio para aula
